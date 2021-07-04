@@ -1,0 +1,9 @@
+[submodule "Plugins/MixedReality-GraphicsTools-Unreal"]
+	path = Plugins/MixedReality-GraphicsTools-Unreal
+	url = https://github.com/microsoft/MixedReality-GraphicsTools-Unreal.git
+[submodule "Plugins/MixedReality-UXTools-Unreal"]
+	path = Plugins/MixedReality-UXTools-Unreal
+	url = https://github.com/microsoft/MixedReality-UXTools-Unreal.git
+[submodule "Plugins/MixedReality-OpenXR-Unreal"]
+	path = Plugins/MixedReality-OpenXR-Unreal
+	url = https://github.com/microsoft/Microsoft-OpenXR-Unreal.git
