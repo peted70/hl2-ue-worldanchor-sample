@@ -31,10 +31,6 @@
 			]
 		},
 		{
-			"Name": "UXToolsExamples",
-			"Enabled": true
-		},
-		{
 			"Name": "GraphicsTools",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
